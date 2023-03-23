@@ -1,0 +1,18 @@
+.gallery {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+
+
+
+  .gallery_pictures {
+    text-align: center;
+    font-size: small;
+  }
+img {
+  width: 250px;
+}
+
+}
